@@ -1,0 +1,38 @@
+h1{
+font-family: "Playwrite NO", cursive;
+font-size: 30px;
+text-align: center;
+color: #000000
+}
+
+h2{
+font-family: "Playwrite NO", cursive;
+font-size: 25px;
+text-align: center;
+color: #000000
+}
+
+p{
+font-size: 20px;
+text-align: justify;
+font-family:  "Playwrite NO", cursive;
+color: #514037
+}
+
+body {
+background-color: #e7d274;
+}
+
+.elegant {
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.divimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8em;
+}
